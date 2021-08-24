@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>星尘</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-08-24T10:57:40.179Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>星尘</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>烈夏五角场log</title>
+    <link href="http://example.com/2021/08/24/%E7%83%88%E5%A4%8F%E4%BA%94%E8%A7%92%E5%9C%BAlog/"/>
+    <id>http://example.com/2021/08/24/%E7%83%88%E5%A4%8F%E4%BA%94%E8%A7%92%E5%9C%BAlog/</id>
+    <published>2021-08-24T10:43:03.000Z</published>
+    <updated>2021-08-24T10:57:40.179Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://gitee.com/kagangtuya_light/picbed/raw/master/img/carcosa_sq.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://hirokisheep.farm/scenario/&quot;&gt;模组链接：&lt;/a&gt;&lt;a href=&quot;https://hirokisheep.farm/scenario/&quot;&gt;https://hirokisheep.farm/scenario/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;作者为 &lt;strong&gt;柴羊&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;此篇为跑团的log记录，由塔骰生成&lt;/p&gt;
+&lt;p&gt;KP为 &lt;strong&gt;星尘&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="coc跑团" scheme="http://example.com/tags/coc%E8%B7%91%E5%9B%A2/"/>
+    
+  </entry>
+  
+</feed>
