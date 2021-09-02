@@ -4,7 +4,7 @@ Allow: /archives/
 Allow: /categories/
 Allow: /tags/ 
 Allow: /resources/ 
-Disallow: /coc跑团/
+
 Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
