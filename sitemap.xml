@@ -44,7 +44,7 @@
   </url>
   
   <url>
-    <loc>https://blog.kagangtuya.top/%E9%93%BE%E6%8E%A5/index.html</loc>
+    <loc>https://blog.kagangtuya.top/categories/index.html</loc>
     
     <lastmod>2021-03-14</lastmod>
     
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://blog.kagangtuya.top/categories/index.html</loc>
+    <loc>https://blog.kagangtuya.top/%E9%93%BE%E6%8E%A5/index.html</loc>
     
     <lastmod>2021-03-14</lastmod>
     
@@ -67,22 +67,22 @@
 
   <url>
     <loc>https://blog.kagangtuya.top/</loc>
-    <lastmod>2021-10-17</lastmod>
+    <lastmod>2021-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://blog.kagangtuya.top/tags/coc%E8%B7%91%E5%9B%A2/</loc>
-    <lastmod>2021-10-17</lastmod>
+    <loc>https://blog.kagangtuya.top/tags/%E8%B7%91%E5%9B%A2/</loc>
+    <lastmod>2021-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.kagangtuya.top/tags/%E8%B7%91%E5%9B%A2/</loc>
-    <lastmod>2021-10-17</lastmod>
+    <loc>https://blog.kagangtuya.top/tags/coc%E8%B7%91%E5%9B%A2/</loc>
+    <lastmod>2021-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
