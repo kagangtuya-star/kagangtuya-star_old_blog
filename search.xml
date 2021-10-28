@@ -74,6 +74,122 @@
       </tags>
   </entry>
   <entry>
+    <title>美化指北·如何修改U盘图标</title>
+    <url>/2021/108fe3eaed.html</url>
+    <content><![CDATA[<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><ul>
+<li><p>一个制作ico图标的网站 <a href="https://www.bitbug.net/">点我进去</a></p>
+</li>
+<li><p>一张好看的图片 用于制作图标 </p>
+<img src="https://gitee.com/kagangtuya_light/picbed/raw/master/淳阳.jpg" style="zoom:25%;" /></li>
+<li><p>你的u盘和电脑</p>
+</li>
+</ul>
+<h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><blockquote>
+<ul>
+<li><strong>制作ico透明图标</strong></li>
+</ul>
+</blockquote>
+<p>在网站中把图片变成128×128的<a href="https://gitee.com/kagangtuya_light/picbed/raw/master/bitbug_favicon.ico">ico图标</a> 点击查看示例</p>
+<p><img src="https://gitee.com/kagangtuya_light/picbed/raw/master/20211028212218.png" alt="生成图标"></p>
+<blockquote>
+<ul>
+<li><strong>把ico图标复制到你的U盘</strong></li>
+</ul>
+</blockquote>
+<img src="https://gitee.com/kagangtuya_light/picbed/raw/master/20211028212504.png" style="zoom: 80%;" />
+
+<blockquote>
+<ul>
+<li><strong>创建一个favicon.inf文件，记得<a href="https://jingyan.baidu.com/article/ac6a9a5ed24d992b653eacec.html">修改文件后缀名</a></strong> </li>
+</ul>
+</blockquote>
+<p><img src="https://gitee.com/kagangtuya_light/picbed/raw/master/20211028212818.png"></p>
+<blockquote>
+<ul>
+<li><strong>编辑inf文件，输入以下文本并保存</strong>（注意文件名需要一样）</li>
+</ul>
+</blockquote>
+<img src="https://gitee.com/kagangtuya_light/picbed/raw/master/20211028213233.png" style="zoom:80%;" />
+
+<blockquote>
+<ul>
+<li><strong>选中两个文件设置为只读、隐藏</strong></li>
+</ul>
+</blockquote>
+<img src="C:\Users\chenzihan\AppData\Roaming\Typora\typora-user-images\image-20211028213355995.png" alt="image-20211028213355995" style="zoom:50%;" />
+
+<img src="https://gitee.com/kagangtuya_light/picbed/raw/master/20211028213440.png" style="zoom: 50%;" />
+
+<blockquote>
+<ul>
+<li><strong>重启电脑或者拔插u盘</strong></li>
+</ul>
+</blockquote>
+<h2 id="大功告成！"><a href="#大功告成！" class="headerlink" title="大功告成！"></a>大功告成！</h2><p><img src="https://gitee.com/kagangtuya_light/picbed/raw/master/20211028213627.png"></p>
+]]></content>
+      <tags>
+        <tag>美化</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>美化指南·如何修改Win10开机动画</title>
+    <url>/2021/10b2685502.html</url>
+    <content><![CDATA[<h2 id="准备工具"><a href="#准备工具" class="headerlink" title="准备工具"></a>准备工具</h2><ul>
+<li><p>一台安装win10操作系统的电脑</p>
+</li>
+<li><p>你心意之中的开机图片 （比如你不存在的对象x）</p>
+</li>
+<li><p>github开源工具**<a href="https://github.com/Metabolix/HackBGRT">HackBGRT</a>**  <a href="https://github.com/Metabolix/HackBGRT/releases/download/v1.5.1/HackBGRT-1.5.1.zip">点此下载</a> <a href="https://github.91chifun.workers.dev/https://github.com//Metabolix/HackBGRT/releases/download/v1.5.1/HackBGRT-1.5.1.zip">备用链接</a></p>
+</li>
+<li><p>解压缩工具</p>
+</li>
+</ul>
+<h2 id="开始美化"><a href="#开始美化" class="headerlink" title="开始美化"></a>开始美化</h2><blockquote>
+<ul>
+<li><strong>解压缩</strong></li>
+</ul>
+</blockquote>
+<img src="https://gitee.com/kagangtuya_light/picbed/raw/master/20211028214651.png" style="zoom: 67%;" />
+
+<blockquote>
+<ul>
+<li><strong>找到心仪的图片，用画图打开，另存为bmp格式，名称为splash，保存替换即可。注意路径为刚刚解压的那个文件夹，替换其中的splash.bmp文件</strong></li>
+</ul>
+</blockquote>
+<img src="https://gitee.com/kagangtuya_light/picbed/raw/master/20211028215146.png" style="zoom:67%;" />
+
+<img src="https://gitee.com/kagangtuya_light/picbed/raw/master/20211028215259.png" style="zoom:67%;" />
+
+
+
+<blockquote>
+<ul>
+<li>右键点击setup.exe，以管理员权限运行</li>
+</ul>
+</blockquote>
+<img src="https://gitee.com/kagangtuya_light/picbed/raw/master/20211028215456.png" style="zoom:50%;" />
+
+<blockquote>
+<ul>
+<li>出现黑色框框（命令行窗口），输入英文 i 后 回车</li>
+</ul>
+</blockquote>
+<p><img src="https://gitee.com/kagangtuya_light/picbed/raw/master/20211028215632.png"></p>
+<blockquote>
+<ul>
+<li><strong>如果想还原开机动画的话再次打开程序输入R即可(管理员权限)</strong></li>
+</ul>
+</blockquote>
+<h2 id="提示"><a href="#提示" class="headerlink" title="提示"></a>提示</h2><p>本方法在BIOS <strong>UEFI启动</strong>及<strong>安全启动（Secure Boot）状态关闭</strong> 状态下可以使用</p>
+<p>可用如下方式查询 开始菜单-运行-输入msinfo32-回车</p>
+<p><img src="https://gitee.com/kagangtuya_light/picbed/raw/master/20211028220016.png"></p>
+<p><img src="https://gitee.com/kagangtuya_light/picbed/raw/master/20211028220118.png"></p>
+]]></content>
+      <tags>
+        <tag>美化</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《施特拉德的诅咒》跑团战报小说</title>
     <url>/2021/10dbcd1642.html</url>
     <content><![CDATA[<p>小队荒野中跋涉的时候遭遇了一支维斯塔尼人的队伍，被邀请至篝火旁取暖，并听他们讲述了一个关于巴洛维亚的故事。</p>
