@@ -6,7 +6,7 @@
   <link href="https://blog.kagangtuya.top/atom.xml" rel="self"/>
   
   <link href="https://blog.kagangtuya.top/"/>
-  <updated>2021-10-29T13:28:55.272Z</updated>
+  <updated>2021-11-06T04:28:32.987Z</updated>
   <id>https://blog.kagangtuya.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>单片机之如何读时序图</title>
+    <link href="https://blog.kagangtuya.top/2021/1131210113.html"/>
+    <id>https://blog.kagangtuya.top/2021/1131210113.html</id>
+    <published>2021-11-06T04:27:13.000Z</published>
+    <updated>2021-11-06T04:28:32.987Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="单片机" scheme="https://blog.kagangtuya.top/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>美化指南·如何修改Win10开机动画</title>
@@ -116,7 +139,7 @@
     <updated>2021-08-25T07:05:05.610Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://gitee.com/kagangtuya_light/picbed/raw/master/img/%E5%B0%81%E9%9D%A2%E6%B0%B8%E5%8A%AB%E6%89%80%E8%AF%9E%E4%B9%8B%E5%A5%B3.png&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://gitee.com/kagangtuya_light/picbed/raw/master/img/%E5%B0%81%E9%9D%A2%E6%B0%B8%E5%8A%AB%E6%89%80%E8%AF%9E%E4%B9%8B%E5%A5%B3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;模组作者：&lt;strong&gt;Cyanide&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;KP：&lt;strong&gt;星尘&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;调查员：&lt;strong&gt;林赛、Vilanan、wayne、Lucius&lt;/strong&gt;&lt;/p&gt;
@@ -137,7 +160,7 @@
     <updated>2021-08-25T07:01:12.105Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://gitee.com/kagangtuya_light/picbed/raw/master/img/%E5%B0%81%E9%9D%A2%E6%B0%B8%E5%8A%AB%E6%89%80%E8%AF%9E%E4%B9%8B%E5%A5%B3.png&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://gitee.com/kagangtuya_light/picbed/raw/master/img/%E5%B0%81%E9%9D%A2%E6%B0%B8%E5%8A%AB%E6%89%80%E8%AF%9E%E4%B9%8B%E5%A5%B3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;模组作者：&lt;strong&gt;Cyanide&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;KP：&lt;strong&gt;星尘&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;调查员：&lt;strong&gt;林赛、Vilanan、wayne、Lucius&lt;/strong&gt;&lt;/p&gt;
@@ -158,7 +181,7 @@
     <updated>2021-08-25T07:01:12.107Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://gitee.com/kagangtuya_light/picbed/raw/master/img/%E5%B0%81%E9%9D%A2%E6%B0%B8%E5%8A%AB%E6%89%80%E8%AF%9E%E4%B9%8B%E5%A5%B3.png&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://gitee.com/kagangtuya_light/picbed/raw/master/img/%E5%B0%81%E9%9D%A2%E6%B0%B8%E5%8A%AB%E6%89%80%E8%AF%9E%E4%B9%8B%E5%A5%B3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;模组作者：&lt;strong&gt;Cyanide&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;KP：&lt;strong&gt;星尘&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;调查员：&lt;strong&gt;林赛、Vilanan、wayne、Lucius&lt;/strong&gt;&lt;/p&gt;
@@ -179,7 +202,7 @@
     <updated>2021-08-25T07:01:12.103Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://gitee.com/kagangtuya_light/picbed/raw/master/img/%E5%B0%81%E9%9D%A2%E6%B0%B8%E5%8A%AB%E6%89%80%E8%AF%9E%E4%B9%8B%E5%A5%B3.png&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://gitee.com/kagangtuya_light/picbed/raw/master/img/%E5%B0%81%E9%9D%A2%E6%B0%B8%E5%8A%AB%E6%89%80%E8%AF%9E%E4%B9%8B%E5%A5%B3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;模组作者：&lt;strong&gt;Cyanide&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;KP：&lt;strong&gt;星尘&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;调查员：&lt;strong&gt;林赛、Vilanan、wayne、Lucius&lt;/strong&gt;&lt;/p&gt;
@@ -200,9 +223,9 @@
     <updated>2021-09-02T02:50:16.183Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://gitee.com/kagangtuya_light/picbed/raw/master/img/carcosa_sq.png&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://gitee.com/kagangtuya_light/picbed/raw/master/img/carcosa_sq.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://hirokisheep.farm/scenario/&quot;&gt;模组链接：&lt;/a&gt;&lt;a href=&quot;https://hirokisheep.farm/scenario/&quot;&gt;https://hirokisheep.farm/scenario/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;作者为 &lt;strong&gt;柴羊&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;作者为 &lt;strong&gt;柴羊&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此篇为跑团的log记录，由塔骰生成&lt;/p&gt;
 &lt;p&gt;KP为 &lt;strong&gt;星尘&lt;/strong&gt;&lt;/p&gt;</summary>
     

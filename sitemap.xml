@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.kagangtuya.top/2021/1131210113.html</loc>
+    
+    <lastmod>2021-11-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.kagangtuya.top/2021/10b2685502.html</loc>
     
     <lastmod>2021-10-29</lastmod>
@@ -65,6 +72,13 @@
   </url>
   
   <url>
+    <loc>https://blog.kagangtuya.top/tags/index.html</loc>
+    
+    <lastmod>2021-03-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.kagangtuya.top/categories/index.html</loc>
     
     <lastmod>2021-03-14</lastmod>
@@ -78,17 +92,10 @@
     
   </url>
   
-  <url>
-    <loc>https://blog.kagangtuya.top/tags/index.html</loc>
-    
-    <lastmod>2021-03-14</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://blog.kagangtuya.top/</loc>
-    <lastmod>2021-10-29</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -96,21 +103,28 @@
   
   <url>
     <loc>https://blog.kagangtuya.top/tags/coc%E8%B7%91%E5%9B%A2/</loc>
-    <lastmod>2021-10-29</lastmod>
+    <lastmod>2021-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.kagangtuya.top/tags/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.kagangtuya.top/tags/%E8%B7%91%E5%9B%A2/</loc>
-    <lastmod>2021-10-29</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.kagangtuya.top/tags/%E7%BE%8E%E5%8C%96/</loc>
-    <lastmod>2021-10-29</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
